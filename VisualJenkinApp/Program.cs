@@ -10,7 +10,7 @@ namespace VisualJenkinApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello to Jenkins////")
+            Console.WriteLine("Hello to Jenkins////");
             Console.ReadKey(); 
         }
     }
